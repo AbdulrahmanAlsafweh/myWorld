@@ -1,0 +1,26 @@
+
+
+.itemCard{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+.itemCard:hover{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding: 2px;
+    border: black solid 4px; 
+    font: bolder;
+   z-index: 1;
+}
+del{
+    color: red;
+}
+
+/* login html */
+
+.loginContainer{
+display: flex;
+text-decoration: none;
+}
